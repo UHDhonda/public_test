@@ -19,5 +19,5 @@
 　posix_spawnp: No such file or directory
 →conectにたどり着けていないことによるエラーの可能性
 　Proxy commandを修正し、C:からconectまでのパスを記述する
-・The authenticity of host '[ssh.github.com]:443 (<no hostip for proxy command>)' can't be established.
+・The authenticity of host ~~ can't be established.
 →これは未解決
