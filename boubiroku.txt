@@ -1,0 +1,5 @@
+【PostgreSQLメモ】
+・登録情報確認
+→SQLShell(psql)を開く
+→コマンドで/duまたは¥duを実行
+→Server→Detabase→Port→Username→ClientEncodingの順で表示される
