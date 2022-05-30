@@ -4,6 +4,10 @@
 →コマンドで/duまたは¥duを実行
 →Server→Detabase→Port→Username→ClientEncodingの順で表示される
 
+・ログインできないエラー
+→以下のコマンド実行で再起動を試みる(サーバー起動完了のメッセージが出るまで待つ)
+　pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart
+
 【PostgreSQLとvscodeのエラー】
 ・OperationalError(この後何も書かれていない)
 →C:\Program Files\PostgreSQL\13\data\logを開いてみるとエラー文がある
