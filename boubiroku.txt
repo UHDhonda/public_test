@@ -7,6 +7,7 @@
 ・ログインできないエラー
 →以下のコマンド実行で再起動を試みる(サーバー起動完了のメッセージが出るまで待つ)
 　pg_ctl -D "C:\Program Files\PostgreSQL\13\data" restart
+→詳細不明だが、多分変な設定を追加してしまっている(ログにアクセス失敗メッセージがたくさんあるため)
 
 【PostgreSQLとvscodeのエラー】
 ・OperationalError(この後何も書かれていない)
