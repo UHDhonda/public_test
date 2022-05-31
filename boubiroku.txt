@@ -2,7 +2,7 @@
 ・登録情報確認
 →SQLShell(psql)を開く
 →コマンドで/duまたは¥duを実行
-→Server→Detabase→Port→Username→ClientEncodingの順で表示される
+→Server→Detabase→Port→Username→ClientEncodingの順でディフォルトの状態が表示される
 
 ・ログインできないエラー
 →以下のコマンド実行で再起動を試みる(サーバー起動完了のメッセージが出るまで待つ)
